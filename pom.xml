@@ -95,7 +95,11 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<configuration>
+<<<<<<< HEAD
 					<skipTests>true</skipTests>
+=======
+					<skipTests>false</skipTests>
+>>>>>>> a89ef486661575c3a4e33dd124660e251c9a632c
 				  </configuration>
 			</plugin>	
 		</plugins>
